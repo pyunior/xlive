@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "site": "StripChat",
+        "username": "savage_room",
+        "running": false
+    },
+    {
+        "site": "StripChat",
+        "username": "bunnys_bells",
+        "running": true
+    }
+]
